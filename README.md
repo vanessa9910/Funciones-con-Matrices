@@ -1,5 +1,2 @@
 # Funciones-con-Matrices
-Suma: Para realizar la suma de dos matrices es necesario que  ambas matrices sean de la mismas dimensiones. La suma se 
-obtiene sumandolos elementos de la misma posición en la matriz. 
-
-Resta: Para que sea posible realizar una resta es igual que en la suma donde ambas matrices necesitas ser de las mismas dimensiones. La resta de una matriz se obtiene restando los elementos en la misma posición en su respectiva matriz.
+La operación se define de una manera muy sencilla: la matriz suma de dos matrices con la misma dimensión es la matriz que tiene en la posición fila i y columna j la suma de los elementos de la misma posición en las matrices que sumamos. Es decir, la suma de matrices se calcula sumando los elementos que ocupan la misma posición.De forma análoga, la resta de matrices se calcula restando los elementos que ocupan la misma posición. 
